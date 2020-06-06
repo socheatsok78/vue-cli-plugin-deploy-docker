@@ -9,6 +9,7 @@
   "keywords": [
     "vue",
     "vue-cli",
+    "vue-cli-plugin",
     "docker",
     "nginx",
     "deployment"
