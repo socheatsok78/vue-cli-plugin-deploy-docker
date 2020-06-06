@@ -2,6 +2,9 @@
 
 > 🐳 Dockerize Your Vue.js Application \w Nginx
 
+[![npm-version](https://img.shields.io/npm/v/vue-cli-plugin-deploy-docker/latest)][npm-url]
+[![npm-download](https://img.shields.io/npm/dm/vue-cli-plugin-deploy-docker)][npm-url]
+
 # Installation
 
 Using Vue CLI
@@ -48,3 +51,5 @@ yarn docker:run
 ## License
 
 License under [MIT](LICENSE)
+
+[npm-url]: https://www.npmjs.com/package/vue-cli-plugin-deploy-docker
