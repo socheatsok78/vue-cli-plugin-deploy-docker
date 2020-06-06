@@ -1,0 +1,15 @@
+{
+  "name": "vue-cli-plugin-deploy-docker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:socheatsok78/vue-cli-plugin-deploy-docker.git",
+  "author": "Socheat Sok <alex@socheat.net>",
+  "license": "MIT",
+  "keywords": [
+    "vue",
+    "vue-cli",
+    "docker",
+    "nginx",
+    "deployment"
+  ]
+}
