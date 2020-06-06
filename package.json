@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-deploy-docker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "repository": "git@github.com:socheatsok78/vue-cli-plugin-deploy-docker.git",
   "homepage": "https://github.com/socheatsok78/vue-cli-plugin-deploy-docker#readme",
