@@ -8,7 +8,7 @@ RUN yarn install
 
 COPY . ./
 RUN yarn run lint && \
-    yarn run build --mode ${NODE_ENV}
+    yarn run build
 
 # stage-2: copy built application to nginx image
 FROM nginx:stable-alpine
