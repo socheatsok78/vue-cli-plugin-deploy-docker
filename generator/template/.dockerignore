@@ -1,0 +1,8 @@
+.git
+.vscode
+**/node_modules
+**/dist
+Dockerfile*
+docker-compose*
+README.md
+LICENSE
