@@ -1,1 +1,1 @@
-# vue-cli-plugin-aws-ecr
+# vue-cli-plugin-deploy-docker
