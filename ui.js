@@ -7,7 +7,8 @@ module.exports = api => {
                 name: 'tag',
                 type: 'input',
                 description: `Name and optionally a tag in the 'name:tag' format`,
-                default: 'app:latest'
+                default: 'app:latest',
+                validate: input => !!input
             }
         ],
         onBeforeRun: ({ answers, args }) => {
@@ -23,7 +24,8 @@ module.exports = api => {
                 name: 'publish',
                 type: 'input',
                 description: `Publish a container's port(s) to the host`,
-                default: '8088:80'
+                default: '8088:80',
+                validate: input => !!input
             },
             {
                 name: 'interactive',
