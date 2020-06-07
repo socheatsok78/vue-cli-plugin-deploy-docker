@@ -6,6 +6,15 @@
   "homepage": "https://github.com/socheatsok78/vue-cli-plugin-deploy-docker#readme",
   "author": "Socheat Sok <alex@socheat.net>",
   "license": "MIT",
+  "scripts": {
+    "test": "cd test && rm -rf node_modules && yarn"
+  },
+  "bugs": {
+    "url": "https://github.com/socheatsok78/vue-cli-plugin-deploy-docker/issues"
+  },
+  "dependencies": {
+    "shelljs": "^0.8.4"
+  },
   "keywords": [
     "vue",
     "vue-cli",
@@ -13,8 +22,5 @@
     "docker",
     "nginx",
     "deployment"
-  ],
-  "bugs": {
-    "url": "https://github.com/socheatsok78/vue-cli-plugin-deploy-docker/issues"
-  }
+  ]
 }
