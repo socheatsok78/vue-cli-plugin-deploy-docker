@@ -13,7 +13,7 @@
     "url": "https://github.com/socheatsok78/vue-cli-plugin-deploy-docker/issues"
   },
   "dependencies": {
-    "shelljs": "^0.8.4"
+    "shelljs": "^0.8.5"
   },
   "keywords": [
     "vue",
